@@ -1,0 +1,6 @@
+#ignore all hidden files
+.DS_Store
+.env
+
+#ignore dependency caches
+/node_modules
